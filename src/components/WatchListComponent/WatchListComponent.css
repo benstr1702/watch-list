@@ -1,0 +1,11 @@
+.list-group{
+    width: 600px;
+    height: auto;
+}
+
+.empty-message {
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+    color: #888;
+}
